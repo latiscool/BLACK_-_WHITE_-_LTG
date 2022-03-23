@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(15, 14, 12, 0.781);
+}
+
+h1,
+form #subtext {
+  color: azure;
+}

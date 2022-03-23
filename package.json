@@ -1,0 +1,19 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LUIS TORRES GOMEZ",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "open": "^8.4.0",
+    "yargs": "^17.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
