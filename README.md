@@ -8,7 +8,7 @@
       (antes debes tener instalado npm)</p>
     <li> $npm install</li><br>
     <p> Para levantar el servidor solo deber ingresar el sgte comando (ya esta inlcuido/definido el comando de yargs y
-      su argumento. Ademas el servidor es levantado mediante nodemon (como desarrollo) para ver de inmediato cualquier cambio)</p>. 
+      su argumento. Ademas el servidor es levantado mediante nodemon (como desarrollo) para ver de inmediato cualquier cambio )</p>. 
     <li> $npm start</li><br>
   <p><b> Se abrira automaticamente el navegador en http://localhost:8080/</p></b>
   </ol>
