@@ -35,9 +35,9 @@ const requestListener = (req, res) => {
         .resize(350, Jimp.AUTO)
         .greyscale()
         .quality(60)
-        .writeAsync('newImg.png')
+        .writeAsync('newImg.jpg')
         .then(() => {
-          fs.readFile('newImg.png', (err, Imagen) => {
+          fs.readFile('newImg.jpg', (err, Imagen) => {
             if (err) {
               return console.log('Ha ocurrido una falla: ' + err);
             }
